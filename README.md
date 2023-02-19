@@ -1,4 +1,4 @@
-# Mak
+# Makarand Zende
 
 ## Personal Portfolio website
 
